@@ -1,0 +1,1 @@
+Solved frontend coding challenges from FreeCodeCamp, learnt some really cool yet simple animations using CSS.
