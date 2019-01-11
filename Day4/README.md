@@ -1,1 +1,1 @@
-Solved frontend coding challenges from FreeCodeCamp, learnt some really cool yet simple animations using CSS.
+Solved frontend coding challenges from FreeCodeCamp pertaining to basic CSS and animations, learnt some really cool yet simple animations using CSS.

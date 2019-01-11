@@ -1,1 +1,1 @@
-Solved frontend coding challenges from FreeCodeCamp, learnt some really cool yet simple CSS tricks
+Solved frontend coding challenges from FreeCodeCamp pertaining to basic CSS, learnt some really cool yet simple CSS tricks
