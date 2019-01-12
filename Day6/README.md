@@ -1,0 +1,1 @@
+Solved frontend coding challenges from FreeCodeCamp pertaining to applied visual design, learnt about CSS transforms and bezier curve animations.
