@@ -1,1 +1,1 @@
-Solved frontend coding challenges from FreeCodeCamp pertaining to basic CSS and animations, learnt about linear gradient, hsl() etc.
+Solved frontend coding challenges from FreeCodeCamp pertaining to applied visual design, learnt about linear gradient, hsl() etc.
