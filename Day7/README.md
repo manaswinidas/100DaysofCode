@@ -1,0 +1,1 @@
+Solved frontend coding challenges from FreeCodeCamp pertaining to applied visual design and applied accessibility, learnt about designs that can be interpreted well by a differently-abled audience.
