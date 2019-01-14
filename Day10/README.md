@@ -1,0 +1,1 @@
+Solved frontend coding challenges from FreeCodeCamp pertaining to CSS grids and its attributes, learnt how grids can be built and beautified according to requirements.
