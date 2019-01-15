@@ -1,0 +1,1 @@
+Learnt how to use Codepen and built a fundamental tribute page(1st project of Freecodecamp)using only HTML and CSS.
