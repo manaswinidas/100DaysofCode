@@ -1,0 +1,14 @@
+#title{
+    text-align: center;
+    font-family: sans-serif;
+  }
+#bg{
+    background-image: linear-gradient(-90deg, blue, cyan);
+    text-align: center;
+  }
+#bg1{
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+  }

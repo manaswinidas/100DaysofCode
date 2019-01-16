@@ -1,0 +1,1 @@
+Built a fundamental tribute page(Second project of Freecodecamp)using only HTML and CSS.
