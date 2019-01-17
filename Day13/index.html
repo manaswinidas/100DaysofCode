@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+  <header id="header">
+        <link rel = "stylesheet" type = "text/css" href = "styles.css" />
+    <nav id="nav-bar">
+      <a href="#submit" class="nav-link">Home</a>
+      <a href="#video" class="nav-link">About</a>
+      <a href="#form" class="nav-link">Contact</a>
+    </nav>
+    <img src="https://blog.codepen.io/wp-content/uploads/2012/06/codepen-wordmark-display-inside-black@10x.png" id="header-img">
+  </header>
+    <body>
+      <div class="flex-container">
+      <div><video width="320" height="240" id="video" controls>
+      <source src="https://www.youtube.com/watch?v=G9J-KcqcQYY" type="video/mp4">
+    </video>
+      </div>
+      <div><form id="form" method="post" action="https://www.freecodecamp.com/email-submit">
+      Email: <input type="email" name="email" id="email" placeholder="Enter your email">
+      <input type="submit" id="submit" value="Subscribe">
+    </form>
+        </div>
+      </div>
+  </body>
+</html>
