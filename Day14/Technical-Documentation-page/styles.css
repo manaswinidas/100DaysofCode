@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  h1{
+    text-align: center;
+  }
+  #navbar{
+    background-color: black;
+    color: white;
+    float: left;
+  }
+  .main-section{
+    display: inline- block;
+  }
