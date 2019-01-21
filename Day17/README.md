@@ -1,0 +1,1 @@
+Learnt the basics of JavaScript from Freecodecamp and completed all the challenges under Basic JavaScript
