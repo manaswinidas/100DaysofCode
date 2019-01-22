@@ -1,0 +1,1 @@
+Learnt ES6 from Freecodecamp and completed all the challenges under ES6.
