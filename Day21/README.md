@@ -1,0 +1,1 @@
+Tried my hand in Mapbox, tried visualizing maps, adding icons and figured out how this visualization works
