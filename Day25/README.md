@@ -1,0 +1,1 @@
+Built a car-rental app, learnt how to apply filters and sorting according to price(high-to-low and low-to-high), how to fetch data from JSON using JavaScript and JQuery.
