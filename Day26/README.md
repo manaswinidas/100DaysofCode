@@ -1,0 +1,1 @@
+Hands-on shell scripting i.e.,enter contents in a file, search and display text that conform to a specific pattern in a shell file, learnt how to change shells, refreshed usage of Vim.
